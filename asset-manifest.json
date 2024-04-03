@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Amit563/Searchable_project_React/static/css/main.f855e6bc.css",
+    "main.js": "/Amit563/Searchable_project_React/static/js/main.eebdee80.js",
+    "index.html": "/Amit563/Searchable_project_React/index.html",
+    "main.f855e6bc.css.map": "/Amit563/Searchable_project_React/static/css/main.f855e6bc.css.map",
+    "main.eebdee80.js.map": "/Amit563/Searchable_project_React/static/js/main.eebdee80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.eebdee80.js"
+  ]
+}
